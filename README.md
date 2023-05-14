@@ -41,3 +41,26 @@ that we can continually improve this dictionary:
 > Copyright ©2020–2023, Biblical Text Institute. This dictionary is
 > dedicated to the public domain. Please submit errata to
 > https://biblicaltext.com
+
+# Contributors
+
+Contributors are always welcome, if you would like to contribute you
+can send us a message in github. To start a new language, copy the
+English language data file as your template, and update as many
+glosses as you can, then submit the file back. Preferably via github.
+
+As much as possible, each gloss should be a single word as it would
+appear inline in an actual bible in your target language. However, in
+some cases, slightly expanded glosses are desirable or necessary for
+clarity.
+
+## Russian
+
+The Russian Gloss dataset consists of almost 1200 vocabulary items, and
+was graciously contributed thanks to the hard work of Stan Kondrat,
+from https://greekforall.com/ and https://mybiblecomics.com/
+
+## Chinese
+
+The Chinese Gloss dataset consists of 500 vocabulary items, created by
+Jay Rhoden for https://biblicaltext.com/
